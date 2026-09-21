@@ -1,32 +1,24 @@
-# Bitácora de Aprendizaje: Ciberseguridad
+# Learning Log: Cybersecurity
 
-En este repositorio documento conceptos clave, análisis de riesgos y mi comprensión sobre normativas de ciberseguridad, aplicando la teoría a escenarios reales y de cultura popular.
+In this repository, I document key concepts, risk analysis, and my understanding of cybersecurity frameworks, applying theory to real-world scenarios and popular culture.
 
----
+## 1. Physical Risk Analysis: "Breaking Bad" Case Study
 
-## 1. Análisis de Riesgo Físico: Caso "Breaking Bad"
-*Concepto: Ingeniería Social y Ataque Físico*
+*Concept: Social Engineering and Physical Attack*
+*Scenario:* In an iconic scene, unauthorized physical access is gained to a high-security environment (the DEA offices) to install a keystroke logging device (*hardware keylogger*).
+*Security Analysis:*
+- *Vulnerability:* Lack of effective physical access controls and supervision of unattended workstations.
+- *Attack Vector:* *Hardware Implant*. The device captures data before any encryption or security software layer.
+- *Lesson Learned:* Cybersecurity is not just about software. An attacker with physical access can bypass any firewall or antivirus.
+- *Mitigation:*
+  - Strict implementation of "clean desk" policies.
+  - Disabling physical USB ports on corporate workstations.
+  - Use of intrusion sensors and network monitoring to detect unauthorized devices.
 
-**Escenario:**
-En una escena icónica, se realiza un acceso físico no autorizado a un entorno de alta seguridad (oficinas de la DEA) para instalar un dispositivo de registro de pulsaciones (*hardware keylogger*).
+## 2. Frameworks and Compliance: GDPR and HIPAA
 
-**Análisis de Seguridad:**
-*   **Vulnerabilidad:** Falta de controles de acceso físico efectivos y supervisión de estaciones de trabajo desatendidas.
-*   **Vector de Ataque:** *Hardware Implant*. El dispositivo captura datos antes de cualquier capa de cifrado o software de seguridad.
-*   **Lección aprendida:** La ciberseguridad no es solo software. Un atacante con acceso físico puede saltarse cualquier firewall o antivirus.
-*   **Mitigación:** 
-    *   Implementación estricta de políticas de "escritorio limpio".
-    *   Desactivación de puertos USB físicos en equipos corporativos.
-    *   Uso de sensores de intrusión y monitoreo de red para detectar dispositivos no autorizados.
-
----
-
-## 2. Marco de Trabajo y Cumplimiento: GDPR y HIPAA
-*Concepto: Seguridad, Ética y Marcos Regulatorios*
-
-**Contexto:**
-El cumplimiento normativo como el **GDPR** (Europa) o **HIPAA** (EE. UU.) no es solo un requisito legal, sino un estándar de oro para la protección de datos a nivel global.
-
-**Análisis:**
-*   **Alcance Extraterritorial:** Entiendo que estas normativas aplican independientemente de la ubicación geográfica de la empresa si se procesan datos de ciudadanos protegidos.
-*   **Estrategia de Seguridad:** Es más eficiente y seguro adoptar los estándares más altos de privacidad desde el inicio (privacidad por diseño), convirtiendo el cumplimiento legal en una ventaja competitiva y un pilar de la confianza del cliente.
+*Concept: Security, Ethics, and Regulatory Frameworks*
+*Context:* Regulatory compliance such as *GDPR* (Europe) or *HIPAA* (USA) is not just a legal requirement, but a gold standard for data protection globally.
+*Analysis:*
+- *Extraterritorial Scope:* I understand that these regulations apply regardless of the company's geographical location if protected citizens' data is processed.
+- *Security Strategy:* It is more efficient and secure to adopt the highest privacy standards from the start (privacy by design), turning legal compliance into a competitive advantage and a pillar of customer trust.cliente.
