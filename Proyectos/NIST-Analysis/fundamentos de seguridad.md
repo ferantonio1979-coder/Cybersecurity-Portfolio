@@ -21,4 +21,4 @@ In this repository, I document key concepts, risk analysis, and my understanding
 *Context:* Regulatory compliance such as *GDPR* (Europe) or *HIPAA* (USA) is not just a legal requirement, but a gold standard for data protection globally.
 *Analysis:*
 - *Extraterritorial Scope:* I understand that these regulations apply regardless of the company's geographical location if protected citizens' data is processed.
-- *Security Strategy:* It is more efficient and secure to adopt the highest privacy standards from the start (privacy by design), turning legal compliance into a competitive advantage and a pillar of customer trust.cliente.
+- *Security Strategy:* It is more efficient and secure to adopt the highest privacy standards from the start (privacy by design), turning legal compliance into a competitive advantage and a pillar of customer trust.
