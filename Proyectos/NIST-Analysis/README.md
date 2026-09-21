@@ -1,16 +1,20 @@
-# Caso de Estudio: Análisis de Incidente con el Framework NIST CSF
+# Case Study: NIST CSF Incident Analysis
 
-## 1. Escenario del Incidente
-*(Aquí describes brevemente qué pasó en el caso que estudiaste en Google. Ej: "Una empresa sufrió un ataque de malware que bloqueó el acceso a sus servidores de datos principales").*
+## 1. Incident Scenario
 
-## 2. Aplicación de la Tríada CIA
-*   **Confidencialidad:** ¿Se filtraron datos privados? *(Sí/No y por qué)*.
-*   **Integridad:** ¿Los datos fueron modificados o alterados? *(Sí/No y por qué)*.
-*   **Disponibilidad:** ¿Los usuarios perdieron acceso a los sistemas? *(Sí/No y por qué)*.
+*(Briefly describe what happened in the case study you examined. E.g., "A company suffered a ransomware attack that blocked access to their primary data servers.")*
 
-## 3. El Ciclo de Vida de NIST CSF (Identificar y Proteger)
-*   **Identificar (Identify):** Qué activos críticos estaban en riesgo (servidores, datos de clientes, etc.).
-*   **Proteger (Protect):** Qué medidas de seguridad faltaron (ej: falta de respaldos, empleados sin capacitación en phishing).
+## 2. Application of the CIA Triad
 
-## 4. Conclusión / Aprendizaje
-*(Un párrafo corto con tus palabras de qué te enseñó este caso sobre la importancia de la seguridad básica).*
+- *Confidentiality:* Were private data or records exposed? *(Yes/No and why)*
+- *Integrity:* Were the data modified, altered, or tampered with? *(Yes/No and why)*
+- *Availability:* Did users lose access to critical systems or services? *(Yes/No and why)*
+
+## 3. NIST CSF Lifecycle (Identify and Protect)
+
+- *Identify:* What critical assets were at risk (servers, customer data, intellectual property, etc.)?
+- *Protect:* What security measures were missing or failed (e.g., lack of backups, employees without security awareness training against phishing)?
+
+## 4. Conclusion / Takeaway
+
+*(A short paragraph in your own words explaining what this case taught you about the importance of cybersecurity fundamentals).*
